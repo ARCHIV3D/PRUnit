@@ -4,6 +4,10 @@ body {
 	background-color: #171717;
 	color: #fff;
 }
+::selection {
+	background-color: #171717;
+	color: #fff;
+}
 .pr-logo {
 	display: block;
 	margin-left: auto;

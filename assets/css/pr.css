@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto:ital@1&display=swap');
+
+body {
+	background-color: #171717;
+	color: #fff;
+}
+.pr-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pr-title {
+	text-align: center;
+	font-family: Roboto;
+	text-transform: uppercase;
+}
+.pr-subtitle {
+	text-align: center;
+	font-family: Nunito;
+	margin-top: -1%;
+	font-size: 18px;
+}
+.pr-hr {
+	border: 0; 
+  	height: 1px; 
+  	background-image: linear-gradient(to right, #0001d1, #fff, #fb0201);
+  	width: 600px;
+}
+.pr-container {
+  width: 95%;
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.pr-text {
+	font-family: Nunito;
+}

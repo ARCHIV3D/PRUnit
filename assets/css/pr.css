@@ -4,6 +4,10 @@ body {
 	background-color: #171717;
 	color: #fff;
 }
+::-moz-selection{
+    background-color: #171717;
+	color: #fff;
+}
 ::selection {
 	background-color: #171717;
 	color: #fff;

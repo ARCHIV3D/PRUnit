@@ -297,17 +297,17 @@ dd{
 }
 @media screen and (max-width:800px){
     .half__image{
-        background-image:url(/assets/img/pdp-large.png)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:801px) and (max-width:1200px){
     .half__image{
-        background-image:url(/assets/img/pdp-large.png)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:1200px){
     .half__image{
-        background-image:url(/assets/img/pdp-large.png)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 .full{
@@ -344,17 +344,17 @@ dd{
 }
 @media screen and (max-width:800px){
     .full__image{
-        background-image:url(/assets/img/full-sm.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:801px) and (max-width:1200px){
     .full__image{
-        background-image:url(/assets/img/full-md.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:1200px){
     .full__image{
-        background-image:url(/assets/img/full-lg.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:768px){
@@ -412,17 +412,17 @@ dd{
 }
 @media screen and (max-width:800px){
     .card{
-        background-image:url(/assets/img/card-sm.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:801px) and (max-width:1200px){
     .card{
-        background-image:url(/assets/img/card-md.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 @media screen and (min-width:1200px){
     .card{
-        background-image:url(/assets/img/card-lg.jpg)
+        background-image:url(assets/img/pdp-large.png)
     }
 }
 .card .pageTitle{

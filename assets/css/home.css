@@ -181,12 +181,12 @@ body p,body ul{
     margin:0 0 2rem
 }
 ::-moz-selection{
-    background:purple;
-    color:#fff
+    background-color: #171717;
+	color: #fff;
 }
-::selection{
-    background:purple;
-    color:#fff
+::selection {
+	background-color: #171717;
+	color: #fff;
 }
 audio,iframe,img,object,video{
     max-width:100%
